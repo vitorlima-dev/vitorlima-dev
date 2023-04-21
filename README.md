@@ -1,10 +1,10 @@
 ### Sou o Vitor, seja bem vindo👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/vitorlima/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorlima-dev&count_private=true&show_icons=true&theme=highcontrast&bg_color=00000000" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/vitorlima/convoychat">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorlima-dev&layout=compact&count_private=true&show_icons=true&theme=highcontrast&bg_color=00000000" />
 </a>
 
