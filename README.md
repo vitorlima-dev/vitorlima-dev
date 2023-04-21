@@ -4,10 +4,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorlima-dev&count_private=true&show_icons=true&theme=highcontrast&bg_color=00000000" />
 </a>
 
-<a href="https://github.com/vitorlima/convoychat">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorlima-dev&layout=compact&count_private=true&show_icons=true&theme=highcontrast&bg_color=00000000" />
-</a>
-
 ###### Aceita um café ? <img align="center" alt="Vitor-jar" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
 <div style="display: inline_block">
