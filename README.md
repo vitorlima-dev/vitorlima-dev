@@ -4,7 +4,7 @@
 
 <p>
 
-Falo sobre Java | Engenharia de dados | AWS.
+Falo sobre Python | Engenharia de dados | AWS.
 
 </p>
 
