@@ -1,10 +1,10 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=vitorlima-dev&&show_icons=true&theme=radical">
 
-### Olá eu sou o Vitor, Bem vindo!
+### Hello I'm Vitor, Welcome!
 
 <p>
 
-Falo sobre Python | Engenharia de dados | AWS.
+Talk about Python | Data Engineer | AWS Solutions Architect.
 
 </p>
 
